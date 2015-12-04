@@ -39,6 +39,10 @@ repositories:
     type: git
     url: https://github.com/ros2/common_interfaces.git
     version: master
+  ros/geometry_experimental:
+    type: git
+    url: https://github.com/ros/geometry_experimental.git
+    version: tf2_ament
   ros2/demos:
     type: git
     url: https://github.com/ros2/demos.git
